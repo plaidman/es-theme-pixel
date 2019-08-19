@@ -22,6 +22,11 @@ like this:
 
 Then the Screenshot will be shown and after a delay of 4 seconds the screenshot is hidden and the video shown, if you don't comment the md_image part, the picture will stay behind while the video is playing which can be ugly in some cases (when screenshot is a different format/resolution than video).
 
+This theme is per default set to show the European and Japanese Consoles and names. This can be changed by setting the proper folder name like: snesUS to snes and snes to snesE, to get the North American SNES. The same goes for PCEngine and Turbografx-16.
+
+
+
+
 
 
 
