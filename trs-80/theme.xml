@@ -3,8 +3,8 @@
     <include>./../pixel.xml</include>
 	
 	<variables>
-		<themeColor>7c7c7c</themeColor>
-		<selectColor>00ff2a</selectColor>
+		<themeColor>636363</themeColor>
+		<selectColor>ff0000</selectColor>
 	</variables>
 
 	<view name="system">
@@ -63,7 +63,7 @@
 		</image>
 
 		<text name="System_Desc" extra="true">
-			<text>Sinclair ZX Spectrum. 1982. 15 colors at 256×192 pixels.</text>
+			<text>The TRS-80 was a home computer originally released by the Tandy Corporation in 1977.</text>
 		</text>	
 
 	</view>

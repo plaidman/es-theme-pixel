@@ -3,8 +3,8 @@
     <include>./../pixel.xml</include>
 	
 	<variables>
-		<themeColor>7c7c7c</themeColor>
-		<selectColor>00ff2a</selectColor>
+		<themeColor>5793b7</themeColor>
+		<selectColor>ff7e00</selectColor>
 	</variables>
 
 	<view name="system">
@@ -59,12 +59,24 @@
 		
 
 		<image name="Bottom Console Image" extra="true">
+			<pos>1 1</pos>
+			<origin>0 0</origin>
 			<path>./console.png</path>
 		</image>
-
+		
 		<text name="System_Desc" extra="true">
-			<text>Sinclair ZX Spectrum. 1982. 15 colors at 256×192 pixels.</text>
+			<pos>1 1</pos>
 		</text>	
+
+		<text name="md_description">
+			<color>ffffff</color>
+			<pos>0.569 0.677</pos>
+			<size>0.380 0.204</size>
+			<forceUppercase>0</forceUppercase>
+			<fontPath>./../art/font.ttf</fontPath>
+			<alignment>center</alignment>
+			<fontSize>0.03</fontSize>
+		</text>
 
 	</view>
 	

@@ -3,8 +3,8 @@
     <include>./../pixel.xml</include>
 	
 	<variables>
-		<themeColor>7c7c7c</themeColor>
-		<selectColor>00ff2a</selectColor>
+		<themeColor>495564</themeColor>
+		<selectColor>00d0f5</selectColor>
 	</variables>
 
 	<view name="system">
@@ -63,7 +63,7 @@
 		</image>
 
 		<text name="System_Desc" extra="true">
-			<text>Sinclair ZX Spectrum. 1982. 15 colors at 256×192 pixels.</text>
+			<text>NEC Super Grafx. Or PCE2. Only 7 games were made for the SuperGrafx.</text>
 		</text>	
 
 	</view>
