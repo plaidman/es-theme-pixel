@@ -3,8 +3,8 @@
     <include>./../pixel.xml</include>
 	
 	<variables>
-		<themeColor>f79226</themeColor>
-		<selectColor>d5e14d</selectColor>
+		<themeColor>333333</themeColor>
+		<selectColor>FF0054</selectColor>
 	</variables>
 
 	<view name="system">
@@ -58,9 +58,13 @@
 		</textlist>
 		
 
+		<image name="Bottom Console Image" extra="true">
+			<path>./console.png</path>
+		</image>
 
-
-
+		<text name="System_Desc" extra="true">
+			<text>Raspbian OS.</text>
+		</text>	
 
 
 	</view>
