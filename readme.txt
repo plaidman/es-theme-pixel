@@ -1,20 +1,11 @@
-Theme 'pixel' v1.7 - 05-29-2016 by Rookervik
+Theme 'pixel' v1.4 by Rookervik edited by bebeidon for GPi handheld and other small 4:3 displays (320x240).
+
+Thanks to ChoccyHobNob for providing the art for Custom collections with his cygnus theme.
+
+
 
 Thanks to muriani for the super-sexy Sega CD logo! 
 Thanks to Omnija for helping me fix some code errors.
-
-
-Updates:
-- May 29th, 2016: Added AGS, Steam, and Desktop systems.
-- April  3rd, 2016: Added support for Pipplware.
-
-
-
-
-
-
-
-
 
 
 
