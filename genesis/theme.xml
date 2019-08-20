@@ -58,13 +58,7 @@
 		</textlist>
 		
 
-		<image name="Bottom Console Image" extra="true">
-			<path>./console.png</path>
-		</image>
-
-		<text name="System_Desc" extra="true">
-			<text>Sega Genesis. Released in 1988. Displays 61 colors at 320x224 pixels.</text>
-		</text>	
+			
 
 
 	</view>

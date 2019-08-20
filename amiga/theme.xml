@@ -58,13 +58,7 @@
 		</textlist>
 		
 
-		<image name="Bottom Console Image" extra="true">
-			<path>./console.png</path>
-		</image>
-
-		<text name="System_Desc" extra="true">
-			<text>Commodore Amiga. 1985. Up to 1024x1024 32-bit color.</text>
-		</text>	
+			
 
 
 	</view>

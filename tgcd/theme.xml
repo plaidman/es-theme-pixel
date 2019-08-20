@@ -58,19 +58,7 @@
 		</textlist>
 		
 
-		<image name="Bottom Console Image" extra="true">
-			<path>./console.png</path>
-		</image>
-
-		<text name="md_description">
-			<color>ffffff</color>
-			<pos>0.569 0.677</pos>
-			<size>0.380 0.204</size>
-			<forceUppercase>0</forceUppercase>
-			<fontPath>./../art/font.ttf</fontPath>
-			<alignment>center</alignment>
-			<fontSize>0.035</fontSize>
-		</text>	
+			
 
 	</view>
 	

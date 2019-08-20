@@ -65,13 +65,7 @@
 		</textlist>
 		
 
-		<image name="Bottom Console Image" extra="true">
-			<path>./console.png</path>
-		</image>
-
-		<text name="System_Desc" extra="true">
-			<text>3DO Interactive Multiplayer. 1993. 24-bit color @ 640x480 pixels.</text>
-		</text>	
+			
 
 
 	</view>

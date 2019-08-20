@@ -58,13 +58,7 @@
 		</textlist>
 		
 
-		<image name="Bottom Console Image" extra="true">
-			<path>./console.png</path>
-		</image>
-
-		<text name="System_Desc" extra="true">
-			<text>Mattel Electronics Intellivision. 1980. 16 colors at 159x96 pixels.</text>
-		</text>	
+			
 
 
 	</view>

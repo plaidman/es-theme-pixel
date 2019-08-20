@@ -58,13 +58,7 @@
 		</textlist>
 		
 
-		<image name="Bottom Console Image" extra="true">
-			<path>./console.png</path>
-		</image>
-
-		<text name="System_Desc" extra="true">
-			<text>Laser Disc games. First appearing in 1983.</text>
-		</text>	
+			
 
 
 	</view>

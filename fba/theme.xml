@@ -58,13 +58,7 @@
 		</textlist>
 		
 
-		<image name="Bottom Console Image" extra="true">
-			<path>./console.png</path>
-		</image>
-
-		<text name="System_Desc" extra="true">
-			<text>Final Burn Alpha. Capcom System and Neo Geo Emulator.</text>
-		</text>	
+			
 
 
 	</view>
