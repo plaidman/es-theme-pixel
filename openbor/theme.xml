@@ -1,0 +1,104 @@
+<theme>
+    <formatVersion>3</formatVersion>
+    <include>./../pixel.xml</include>
+	
+	<variables>
+		<themeColor>004688</themeColor>
+		<selectColor>ffce08</selectColor>
+	</variables>
+
+	<view name="system">
+
+		<image name="background" extra="true">
+			<color>${themeColor}</color>
+		</image>
+		
+		<image name="console_overlay" extra="true">
+			<path>./console.png</path>
+		</image>
+		
+		<image name="logo">
+			<path>./logo.png</path>
+        </image>
+	
+	</view>
+
+	<view name="basic">
+
+		<image name="logo">
+			<path>./logo.png</path>
+		</image>
+		
+		<image name="background" extra="true">
+			<color>${themeColor}</color>
+		</image>
+
+		<image name="Border Overlay" extra="true">
+			<path>./../art/border_simple.png</path>
+		</image>		
+	
+		<textlist name="gamelist">
+			<selectedColor>${selectColor}</selectedColor>
+		</textlist>
+		
+	</view>
+
+	<view name="detailed, video">
+	
+		<image name="logo">
+			<path>./logo.png</path>
+		</image>
+		
+		<image name="background" extra="true">
+			<color>${themeColor}</color>
+		</image>
+
+		<textlist name="gamelist">
+			<selectedColor>${selectColor}</selectedColor>
+		</textlist>
+		
+
+
+
+		<!--<text name="md_description">
+			<color>ffffff</color>
+			<pos>0.569 0.677</pos>
+			<size>0.380 0.204</size>
+			<forceUppercase>0</forceUppercase>
+			<fontPath>./../art/font.ttf</fontPath>
+			<alignment>center</alignment>
+			<fontSize>0.035</fontSize>
+		</text>
+		-->
+		
+		
+		
+
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+
+	
+	<!--	
+		<text name="md_playcount">
+			<color>ffffff</color>
+			<forceUppercase>0</forceUppercase>
+			<fontPath>./../art/font.ttf</fontPath>
+			<fontSize>0.035</fontSize>
+			<pos>0.774 0.850</pos>
+		</text>	
+	-->	
+	</view>
+	
+</theme>
