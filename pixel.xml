@@ -105,7 +105,7 @@ license:		creative commons CC-BY-NC-SA
 			<alignment>center</alignment>
 			<horizontalMargin>0.01</horizontalMargin>
 			<fontPath>./art/font.ttf</fontPath>
-			<fontSize>0.04</fontSize>
+			<fontSize>0.045</fontSize>
 			<selectorImagePath>./art/selector-basic.png</selectorImagePath>
 			<selectorImageTile>false</selectorImageTile>
 			<selectorOffsetY>0.0</selectorOffsetY>
