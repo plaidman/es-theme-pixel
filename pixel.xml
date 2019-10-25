@@ -14,11 +14,11 @@ license:		creative commons CC-BY-NC-SA
         </image>
 	
 		<helpsystem name="help">
-			<pos>0.012 0.962</pos>
+			<pos>0.0 0.962</pos>
 			<textColor>acacac</textColor>
 			<iconColor>acacac</iconColor>
 			<fontPath>./art/font.ttf</fontPath>
-			<fontSize>0.035</fontSize>
+			<fontSize>0.04</fontSize>
 		</helpsystem>
 	
 		<carousel name="systemcarousel">
@@ -33,7 +33,7 @@ license:		creative commons CC-BY-NC-SA
 			<pos>0.0 0.895</pos>
 			<color>ffffff80</color>
 			<fontPath>./art/font.ttf</fontPath>
-			<fontSize>0.035</fontSize>
+			<fontSize>0.04</fontSize>
 		</text>
 
 		<image name="background" extra="true">
@@ -81,21 +81,21 @@ license:		creative commons CC-BY-NC-SA
 		</image>
 
 		<helpsystem name="help">
-			<pos>0.012 0.960</pos>
+			<pos>0.0 0.960</pos>
 			<textColor>ffffff</textColor>
 			<iconColor>ffffff</iconColor>
 			<fontPath>./art/font.ttf</fontPath>
-			<fontSize>0.035</fontSize>
+			<fontSize>0.04</fontSize>
 		</helpsystem>
 		
 		<text name="md_lbl_playcount">
 			<pos>0.676 0.580</pos>
-			<fontSize>0.03</fontSize>
+			<fontSize>0.04</fontSize>
 		</text>
 		
 		<text name="md_playcount">
 			<pos>0.829 0.574</pos>
-			<fontSize>0.03</fontSize>
+			<fontSize>0.04</fontSize>
 		</text>
 		
 		<textlist name="gamelist">
@@ -122,11 +122,11 @@ license:		creative commons CC-BY-NC-SA
 	<view name="detailed, video">
 	
 		<helpsystem name="help">
-			<pos>0.012 0.960</pos>
+			<pos>-0.03 0.960</pos>
 			<textColor>ffffff</textColor>
 			<iconColor>ffffff</iconColor>
 			<fontPath>./art/font.ttf</fontPath>
-			<fontSize>0.034</fontSize>
+			<fontSize>0.04</fontSize>
 		</helpsystem>
 
 		<image name="logo">
@@ -162,13 +162,13 @@ license:		creative commons CC-BY-NC-SA
 			<size>0.483 0.63</size>
 			<alignment>left</alignment>
 			<horizontalMargin>0.027</horizontalMargin>
-			<lineSpacing>1.72</lineSpacing>
+			<lineSpacing>1.25</lineSpacing>
 			<fontPath>./art/font.ttf</fontPath>
-			<fontSize>0.04</fontSize>
+			<fontSize>0.05</fontSize>
 			<selectorImagePath>./art/selector.png</selectorImagePath>
 			<selectorImageTile>false</selectorImageTile>
-			<selectorOffsetY>0.0075</selectorOffsetY>
-			<selectorHeight>0.0295</selectorHeight>
+			<selectorOffsetY>0.0</selectorOffsetY>
+			<selectorHeight>0.055</selectorHeight>
 			<selectorColor>ffffff</selectorColor>
 			<selectedColor>ffffff</selectedColor>
 			<primaryColor>ffffff</primaryColor>
@@ -186,28 +186,28 @@ license:		creative commons CC-BY-NC-SA
 				
 		<text name="md_developer">
 			<color>ffffff</color>
-			<pos>0.566 0.685</pos>
+			<pos>0.57 0.685</pos>
 			<forceUppercase>0</forceUppercase>
 			<fontPath>./art/font.ttf</fontPath>
-			<fontSize>0.037</fontSize>
+			<fontSize>0.04</fontSize>
 			<size>0.350 0.035</size>
 		</text>		
 		
 		<datetime name="md_releasedate">
 			<color>ffffff</color>
-			<pos>0.566 0.760</pos>
+			<pos>0.57 0.760</pos>
 			<forceUppercase>0</forceUppercase>
 			<fontPath>./art/font.ttf</fontPath>
-			<fontSize>0.037</fontSize>
+			<fontSize>0.04</fontSize>
 			<size>0.220 0.035</size>
 		</datetime>
 
 		<text name="md_genre">
 			<color>ffffff</color>
-			<pos>0.566 0.840</pos>
+			<pos>0.57 0.840</pos>
 			<forceUppercase>0</forceUppercase>
 			<fontPath>./art/font.ttf</fontPath>
-			<fontSize>0.037</fontSize>
+			<fontSize>0.04</fontSize>
 			<size>0.350 0.035</size>
 		</text>
 					
@@ -226,8 +226,8 @@ license:		creative commons CC-BY-NC-SA
 			<fontPath>./art/font.ttf</fontPath>
 			<fontSize>0.025</fontSize>
 		</text>
-	-->
-
+		-->
+		
 	</view>	
 	
 	<view name="video">
