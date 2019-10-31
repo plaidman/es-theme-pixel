@@ -189,7 +189,7 @@ license:		creative commons CC-BY-NC-SA
 			<pos>0.57 0.685</pos>
 			<forceUppercase>0</forceUppercase>
 			<fontPath>./art/font.ttf</fontPath>
-			<fontSize>0.04</fontSize>
+			<fontSize>0.044</fontSize>
 			<size>0.350 0.035</size>
 		</text>		
 		
@@ -207,7 +207,7 @@ license:		creative commons CC-BY-NC-SA
 			<pos>0.57 0.840</pos>
 			<forceUppercase>0</forceUppercase>
 			<fontPath>./art/font.ttf</fontPath>
-			<fontSize>0.04</fontSize>
+			<fontSize>0.044</fontSize>
 			<size>0.350 0.035</size>
 		</text>
 					
