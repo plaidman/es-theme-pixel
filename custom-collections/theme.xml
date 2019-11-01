@@ -3,7 +3,7 @@
     <include>./../pixel.xml</include>
 	
 	<variables>
-		<themeColor>d3cdaa</themeColor>
+		<themeColor>7ace7a</themeColor>
 		<selectColor>ff0000</selectColor>
 	</variables>
 

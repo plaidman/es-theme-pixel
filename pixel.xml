@@ -1,6 +1,6 @@
 <!--
 theme name:		Pixel
-version:		2.0
+version:		1.4
 author:			Eric Hettervik, video support by Nismo, edited by bebeidon
 license:		creative commons CC-BY-NC-SA
 -->
@@ -15,7 +15,7 @@ license:		creative commons CC-BY-NC-SA
 	
 		
 		<helpsystem name="help">
-			<pos>-0.20 0.96</pos>
+			<pos>-0.20 1.96</pos>
 			<textColor>acacac</textColor>
 			<iconColor>acacac</iconColor>
 			<fontPath>./art/font.ttf</fontPath>
@@ -200,7 +200,7 @@ license:		creative commons CC-BY-NC-SA
 			<pos>0.57 0.760</pos>
 			<forceUppercase>0</forceUppercase>
 			<fontPath>./art/font.ttf</fontPath>
-			<fontSize>0.04</fontSize>
+			<fontSize>0.044</fontSize>
 			<size>0.220 0.035</size>
 		</datetime>
 
@@ -214,8 +214,8 @@ license:		creative commons CC-BY-NC-SA
 		</text>
 					
 		<rating name="md_rating">
-			<pos>0.760 0.755</pos>
-			<size>0.200 0.050</size>
+			<pos>0.790 0.755</pos>
+			<size>0.100 0.040</size>
 			<filledPath>./art/star_filled.svg</filledPath>
 			<unfilledPath>./art/star_empty.svg</unfilledPath>
 		</rating>
