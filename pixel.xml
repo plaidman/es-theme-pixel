@@ -32,7 +32,7 @@ license:		creative commons CC-BY-NC-SA
 		
 		<text name="systemInfo">
 			<pos>0.0 0.885</pos>
-			<color>ffffff</color>
+			<color>ffffff90</color>
 			<fontPath>./art/font.ttf</fontPath>
 			<fontSize>0.042</fontSize>
 		</text>
