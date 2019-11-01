@@ -13,15 +13,16 @@ license:		creative commons CC-BY-NC-SA
 		<image name="logo">
         </image>
 	
+		
 		<helpsystem name="help">
-			<!--<pos>0.0 0.962</pos>-->
-			<pos>-0.20 0.96</pos>
+			<pos>-0.20 1.96</pos>
 			<textColor>acacac</textColor>
 			<iconColor>acacac</iconColor>
 			<fontPath>./art/font.ttf</fontPath>
 			<fontSize>0.044</fontSize>
 		</helpsystem>
-	
+		
+		
 		<carousel name="systemcarousel">
 			<pos>0 0.62</pos>
 			<size>1 0.22</size>
