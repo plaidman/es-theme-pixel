@@ -123,11 +123,11 @@ license:		creative commons CC-BY-NC-SA
 	<view name="detailed, video">
 	
 		<helpsystem name="help">
-			<pos>-0.31 0.945</pos>
+			<pos>-0.25 0.95</pos>
 			<textColor>ffffff</textColor>
 			<iconColor>ffffff</iconColor>
 			<fontPath>./art/font.ttf</fontPath>
-			<fontSize>0.060</fontSize>
+			<fontSize>0.050</fontSize>
 		</helpsystem>
 
 		<image name="logo">
