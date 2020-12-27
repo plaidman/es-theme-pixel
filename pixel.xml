@@ -83,11 +83,11 @@ license:		creative commons CC-BY-NC-SA
 		</image>
 
 		<helpsystem name="help">
-			<pos>0.0 0.960</pos>
+			<pos>0.015 0.955</pos>
 			<textColor>ffffff</textColor>
 			<iconColor>ffffff</iconColor>
 			<fontPath>./art/font.ttf</fontPath>
-			<fontSize>0.04</fontSize>
+			<fontSize>0.028</fontSize>
 		</helpsystem>
 		
 		<text name="md_lbl_playcount">
@@ -106,7 +106,7 @@ license:		creative commons CC-BY-NC-SA
 			<alignment>center</alignment>
 			<horizontalMargin>0.01</horizontalMargin>
 			<fontPath>./art/font.ttf</fontPath>
-			<fontSize>0.045</fontSize>
+			<fontSize>0.034</fontSize>
 			<selectorImagePath>./art/selector-basic.png</selectorImagePath>
 			<selectorImageTile>false</selectorImageTile>
 			<selectorOffsetY>0.0</selectorOffsetY>
@@ -124,11 +124,11 @@ license:		creative commons CC-BY-NC-SA
 	<view name="detailed, video">
 	
 		<helpsystem name="help">
-			<pos>-0.25 0.95</pos>
+			<pos>0.015 0.955</pos>
 			<textColor>ffffff</textColor>
 			<iconColor>ffffff</iconColor>
 			<fontPath>./art/font.ttf</fontPath>
-			<fontSize>0.050</fontSize>
+			<fontSize>0.028</fontSize>
 		</helpsystem>
 
 		<image name="logo">
@@ -153,12 +153,12 @@ license:		creative commons CC-BY-NC-SA
 			<path>./art/border.png</path>
 		</image>		
 	
-		<!--<image name="md_image">
+		<image name="md_image">
 			<pos>0.766 0.322</pos>
 			<maxSize>0.366 0.480</maxSize>
 			<origin>0.5 0.5</origin>
 		</image>
-		-->		
+		
 		<textlist name="gamelist">
 			<pos>0.034 0.258</pos>
 			<size>0.483 0.63</size>
@@ -166,7 +166,7 @@ license:		creative commons CC-BY-NC-SA
 			<horizontalMargin>0.027</horizontalMargin>
 			<lineSpacing>1.25</lineSpacing>
 			<fontPath>./art/font.ttf</fontPath>
-			<fontSize>0.05</fontSize>
+			<fontSize>0.034</fontSize>
 			<selectorImagePath>./art/selector.png</selectorImagePath>
 			<selectorImageTile>false</selectorImageTile>
 			<selectorOffsetY>0.0</selectorOffsetY>
@@ -200,6 +200,7 @@ license:		creative commons CC-BY-NC-SA
 			<pos>0.57 0.760</pos>
 			<forceUppercase>0</forceUppercase>
 			<fontPath>./art/font.ttf</fontPath>
+			<format>%Y</format>
 			<fontSize>0.044</fontSize>
 			<size>0.220 0.035</size>
 		</datetime>

@@ -3,8 +3,8 @@
     <include>./../pixel.xml</include>
 	
 	<variables>
-		<themeColor>5C5C5C</themeColor>
-		<selectColor>ff0000</selectColor>
+		<themeColor>8f6250</themeColor>
+		<selectColor>ee0000</selectColor>
 	</variables>
 
 	<view name="system">
@@ -58,7 +58,8 @@
 		</textlist>
 		
 
-			
+
+
 
 
 	</view>
