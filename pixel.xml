@@ -250,5 +250,35 @@ license:		creative commons CC-BY-NC-SA
 		</image>
 		-->
 	</view>
+	
+	<view name="menu">
+        <menuBackground name="menubg">
+           <color>262626</color>
+        </menuBackground>
+		
+	<menuText name="menutext">
+           <fontPath>./art/font.ttf</fontPath>
+           <fontSize>.035</fontSize>
+           <color>ffffff</color>
+    </menuText>
+	
+	<menuText name="menutitle">
+           <fontPath>./art/font.ttf</fontPath>
+           <fontSize>.035</fontSize>
+           <color>ffffff</color>
+    </menuText>
+	
+	<menuTextEdit name="menutextedit">	
+           <inactive>./art/textinput_inactive.png</inactive>
+           <active>./art/textinput_active.png</active>
+    </menuTextEdit>
+	
+	<menuText name="menufooter, menutextsmall">
+           <fontPath>./art/font.ttf</fontPath>
+           <fontSize>.030</fontSize>		 
+           <color>ffffff</color>
+    </menuText>
+	
+    </view>
 		
 </theme>
