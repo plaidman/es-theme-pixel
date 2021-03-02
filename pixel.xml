@@ -6,22 +6,21 @@ license:		creative commons CC-BY-NC-SA
 -->
 
 <theme>
-    <formatVersion>3</formatVersion>
+    <formatVersion>7</formatVersion>
+	
+    <variables>
+	 <fullscreenfixSubsetname>Choose Emulationstation That's In Use</fullscreenfixSubsetname>
+   </variables>
+   
+	<subset name="fullscreenfix" displayName="${fullscreenfixSubsetname}">
+        <include name="ES Header" displayName="${ES Header}">./header.xml</include>
+        <include name="ES Fullscreen" displayName="${ES Fullscreen}">./fullscreen.xml</include>
+    </subset>
 
 	<view name="system">
 	
 		<image name="logo">
         </image>
-	
-		
-		<helpsystem name="help">
-			<pos>-0.20 1.96</pos>
-			<textColor>acacac</textColor>
-			<iconColor>acacac</iconColor>
-			<fontPath>./art/font.ttf</fontPath>
-			<fontSize>0.044</fontSize>
-		</helpsystem>
-		
 		
 		<carousel name="systemcarousel">
 			<pos>0 0.62</pos>
@@ -81,14 +80,6 @@ license:		creative commons CC-BY-NC-SA
 			<pos>0 0</pos>
 			<origin>0 0</origin>			
 		</image>
-
-		<helpsystem name="help">
-			<pos>0.015 0.955</pos>
-			<textColor>ffffff</textColor>
-			<iconColor>ffffff</iconColor>
-			<fontPath>./art/font.ttf</fontPath>
-			<fontSize>0.028</fontSize>
-		</helpsystem>
 		
 		<text name="md_lbl_playcount">
 			<pos>0.676 0.580</pos>
@@ -122,14 +113,6 @@ license:		creative commons CC-BY-NC-SA
 	</view>
 
 	<view name="detailed, video">
-	
-		<helpsystem name="help">
-			<pos>0.015 0.955</pos>
-			<textColor>ffffff</textColor>
-			<iconColor>ffffff</iconColor>
-			<fontPath>./art/font.ttf</fontPath>
-			<fontSize>0.028</fontSize>
-		</helpsystem>
 
 		<image name="logo">
 			<pos>0.274 0.114</pos>

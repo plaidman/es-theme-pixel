@@ -1,0 +1,47 @@
+<!--
+theme name:		Pixel
+version:		1.4
+author:			Eric Hettervik, video support by Nismo, edited by bebeidon
+license:		creative commons CC-BY-NC-SA
+-->
+
+<theme>
+    <formatVersion>7</formatVersion>
+
+	<view name="system">
+		
+		<helpsystem name="help">
+			<pos>-0.20 1.96</pos>
+			<textColor>acacac</textColor>
+			<iconColor>acacac</iconColor>
+			<fontPath>./art/font.ttf</fontPath>
+			<fontSize>0.044</fontSize>
+		</helpsystem>
+
+	</view>
+
+    <view name="basic">
+
+		<helpsystem name="help">
+			<pos>0.025 0.955</pos>
+			<textColor>ffffff</textColor>
+			<iconColor>ffffff</iconColor>
+			<fontPath>./art/font.ttf</fontPath>
+			<fontSize>0.030</fontSize>
+		</helpsystem>
+
+	</view>
+
+	<view name="detailed, video">
+	
+		<helpsystem name="help">
+			<pos>0.025 0.955</pos>
+			<textColor>ffffff</textColor>
+			<iconColor>ffffff</iconColor>
+			<fontPath>./art/font.ttf</fontPath>
+			<fontSize>0.030</fontSize>
+		</helpsystem>
+		
+	</view>	
+		
+</theme>
