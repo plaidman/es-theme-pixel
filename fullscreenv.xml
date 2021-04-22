@@ -11,7 +11,7 @@ license:		creative commons CC-BY-NC-SA
 	<view name="system">
 		
 		<helpsystem name="help">
-			<pos>-0.20 1.96</pos>
+			<pos>-0.20 -5</pos>
 			<textColor>acacac</textColor>
 			<iconColor>acacac</iconColor>
 			<fontPath>./art/font.ttf</fontPath>
@@ -23,7 +23,7 @@ license:		creative commons CC-BY-NC-SA
     <view name="basic">
 
 		<helpsystem name="help">
-			<pos>0.0 0.955</pos>
+			<pos>0.0 -5</pos>
 			<textColor>ffffff</textColor>
 			<iconColor>ffffff</iconColor>
 			<fontPath>./art/font.ttf</fontPath>
@@ -35,7 +35,7 @@ license:		creative commons CC-BY-NC-SA
 	<view name="detailed, video">
 	
 		<helpsystem name="help">
-			<pos>0.0 0.955</pos>
+			<pos>0.0 -5</pos>
 			<textColor>ffffff</textColor>
 			<iconColor>ffffff</iconColor>
 			<fontPath>./art/font.ttf</fontPath>

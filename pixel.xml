@@ -9,13 +9,13 @@ license:		creative commons CC-BY-NC-SA
     <formatVersion>7</formatVersion>
 	
     <variables>
-	 <fullscreenfixSubsetname>Choose Emulationstation That's In Use</fullscreenfixSubsetname>
+	 <fullscreenfixSubsetname>Emulationstation Screen Size</fullscreenfixSubsetname>
    </variables>
    
 	<subset name="fullscreenfix" displayName="${fullscreenfixSubsetname}">
         <include name="ES Header" displayName="${ES Header}">./header.xml</include>
         <include name="ES Fullscreen" displayName="${ES Fullscreen}">./fullscreen.xml</include>
-		<include name="ES Fullscreen V" displayName="${ES Fullscreen V}">./fullscreenv.xml</include>
+		<include name="351V" displayName="${351V}">./fullscreenv.xml</include>
     </subset>
 
 	<view name="system">
