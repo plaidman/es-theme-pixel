@@ -75,6 +75,8 @@ license:		creative commons CC-BY-NC-SA
 		
 		<image name="background" extra="true">
 			<path>./art/systemback.png</path>
+			<tile>false</tile>
+			<size>1 1</size>
 		</image>
 
 		<image name="Border Overlay" extra="true">
@@ -104,7 +106,6 @@ license:		creative commons CC-BY-NC-SA
 			<selectorImagePath>./art/selector-basic.png</selectorImagePath>
 			<selectorImageTile>false</selectorImageTile>
 			<selectorOffsetY>0.0</selectorOffsetY>
-			<selectorHeight>0.06</selectorHeight>
 			<selectorColor>ffffff</selectorColor>
 			<selectedColor>bc14ff</selectedColor>
 			<primaryColor>ffffff</primaryColor>

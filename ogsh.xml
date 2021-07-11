@@ -29,6 +29,10 @@ license:		creative commons CC-BY-NC-SA
 			<fontPath>./art/font.ttf</fontPath>
 			<fontSize>0.028</fontSize>
 		</helpsystem>
+		
+		<textlist name="gamelist">
+			<selectorHeight>0.048</selectorHeight>
+		</textlist>
 
 	</view>
 

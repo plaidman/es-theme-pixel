@@ -30,6 +30,10 @@ license:		creative commons CC-BY-NC-SA
 			<fontSize>0.030</fontSize>
 		</helpsystem>
 
+		<textlist name="gamelist">
+			<selectorHeight>0.06</selectorHeight>
+		</textlist>
+
 	</view>
 
 	<view name="detailed, video">
